@@ -5,7 +5,6 @@ class StringFunctions{
 
    public:
       static int myStringLen(const char* str);
-
 };
 
 
